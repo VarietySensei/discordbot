@@ -1,0 +1,27 @@
+{
+  "name": "opunte",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aesthetic",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "canvas": "^2.6.1",
+    "canvas-senpai": "^1.0.0",
+    "chart": "^0.1.2",
+    "chart.js": "^2.9.4",
+    "chartjs-node-canvas": "^3.0.6",
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.1-security",
+    "hastebin-gen": "^2.0.5",
+    "imageapi.js": "^1.2.0",
+    "mongoose": "^5.10.15",
+    "random-puppy": "^1.1.0",
+    "reddit": "^1.2.1",
+    "wokcommands": "^1.1.3"
+  }
+}
